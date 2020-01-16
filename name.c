@@ -8,5 +8,7 @@
  int main(void) {
 		printf("Jonathan Duke\n");
 		printf("Actuarial Science\n");
+	 	printf("Nick VanderWal\n");
+	 	printf("Mathematics\n");
 		return 0;
 }
